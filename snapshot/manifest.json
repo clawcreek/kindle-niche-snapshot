@@ -1,1 +1,47 @@
-{"schema":"kindle-niche-snapshot/0.1","generated_at":null,"topics":0,"cards":0,"files":{}}
+{
+ "schema": "kindle-niche-snapshot/0.1",
+ "generated_at": "2026-09-30T15:49:27Z",
+ "topics": 64,
+ "cards": 9,
+ "skill": {
+  "repo": "netmind-rs-clawcreek-skills",
+  "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
+  "branch": "fix/kdp-submit-1.3.4-publish-public",
+  "commit": "819bfcf7d6509d73d86e22f5b619ec9b71aab3ee"
+ },
+ "requests": 189,
+ "elapsed_seconds": 770,
+ "steps": {
+  "topics": {
+   "requests": 45,
+   "seconds": 158
+  },
+  "deep": {
+   "keywords": 50,
+   "requests": 144,
+   "seconds": 612
+  }
+ },
+ "stopped": "captcha",
+ "files": {
+  "cards/a-barefoot-contessa-cookbook/card.md": "e1b9f8f5c3338c47e0a4edcd6abe304635e4294e9d70a43d5bb25c2890dd78b8",
+  "cards/a-barefoot-contessa-cookbook/competitors.json": "ad574212128b4153656e86d215dc3bf92b6e971e5cc59df28cfcb93aa8276387",
+  "cards/a-scenario/card.md": "f93a3fba88bd8dfaee231244106410e2a5af2d5572aa725eb433a0a203534aec",
+  "cards/a-scenario/competitors.json": "cb8a3c207a990727a2d646ed0167a61d6c22b6d065d56471a67c4aff14db02a1",
+  "cards/a-step-by-step/card.md": "fbfa3525ac16d2491f50ae20f0d50b86cd18729908bfdfb06a9fced8cf9454af",
+  "cards/a-step-by-step/competitors.json": "39a1db5768168341531369cab6b92f7db25ea49703d5df351e0b356d839b2d52",
+  "cards/a-survival-guide-for-humanity/card.md": "ab863a8205fca41c409edcc7f2a7837c2b8d1ae6dbb43be561e78bf32303b339",
+  "cards/a-survival-guide-for-humanity/competitors.json": "caad32ff085e3c6d6af545c971b81383f8e3ae6a6201ca031aa0438dad2c415b",
+  "cards/a-survival-guide/card.md": "2b9ac338c520aa3d6e6b4946e13e83fb177362a494ece1127bd84e6713d234ca",
+  "cards/a-survival-guide/competitors.json": "8bffc1a599d7871bb050732fab22cc7ad6865645cbb419829a43e2ac32ac2739",
+  "cards/barefoot-contessa/card.md": "e6200b5b89b5d9b81e5ffda19a745b4a5ac337c29c54204bd477c6ce91792ca3",
+  "cards/barefoot-contessa/competitors.json": "58829808d2e78a47670ad5291ffc2ceb13f84960f6a42270c170c40d61b49846",
+  "cards/french-resistance-hotel/card.md": "c7547623f797bc782d111efa422ba0a1aa92f3853ad51a107f6a32ca8c1c80a1",
+  "cards/french-resistance-hotel/competitors.json": "1af0d482ab9829369deb87569d31f1c1b04cb84f1b99cd149fdc8dd76c13442f",
+  "cards/the-comprehensive-guide/card.md": "3e8f92fecd43205c3eb866973c03c961bd330b08fdde51c0cbff404e6ad19eec",
+  "cards/the-comprehensive-guide/competitors.json": "1ca467c523656bfe7e438d09a85125b6bdcf585283f9d25626b234e80aee3a3d",
+  "cards/the-french-resistance-hotel/card.md": "740b447a0d1cf7a6f65619a5b631a9b6d1368a3f8b5be5379b0330e6372e24f2",
+  "cards/the-french-resistance-hotel/competitors.json": "d4a625c2ce8132f8ac76703c445486b7433c274e06cb85dae205bfd93b3e7bf5",
+  "topics.json": "a58b9e51b1bc9dbdf57f6345d52d1308eb81800e380b4b33183ee496d2046ac2"
+ }
+}

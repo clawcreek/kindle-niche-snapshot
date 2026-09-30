@@ -1,0 +1,1052 @@
+{
+ "fetched_at": "2026-09-30 11:39",
+ "books": 1350,
+ "topics": [
+  {
+   "topic": "french resistance hotel",
+   "heat": 11,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 1,
+   "best_rank": 5,
+   "median_reviews": 38,
+   "howto": false,
+   "categories": [
+    "Nonfiction",
+    "Travel"
+   ],
+   "examples": [
+    "The French Resistance Hotel: An absolutely gripping and heartbreaking "
+   ]
+  },
+  {
+   "topic": "the french resistance hotel",
+   "heat": 11,
+   "books": 2,
+   "on_hot_new_releases": 2,
+   "on_best_sellers": 1,
+   "best_rank": 5,
+   "median_reviews": 38,
+   "howto": false,
+   "categories": [
+    "Nonfiction",
+    "Travel"
+   ],
+   "examples": [
+    "The French Resistance Hotel: An absolutely gripping and heartbreaking "
+   ]
+  },
+  {
+   "topic": "a scenario",
+   "heat": 8,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 2,
+   "median_reviews": 7348,
+   "howto": false,
+   "categories": [
+    "Science & Math",
+    "Nonfiction"
+   ],
+   "examples": [
+    "Biological War: A Scenario",
+    "Nuclear War: A Scenario"
+   ]
+  },
+  {
+   "topic": "a survival guide",
+   "heat": 6,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 9,
+   "median_reviews": 23,
+   "howto": true,
+   "categories": [
+    "Health, Fitness & Dieting"
+   ],
+   "examples": [
+    "OCD Sucks: A Survival Guide"
+   ]
+  },
+  {
+   "topic": "a step-by-step",
+   "heat": 5,
+   "books": 3,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 2,
+   "best_rank": 13,
+   "median_reviews": 179,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine",
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Bread Illustrated: A Step-By-Step Guide to Achieving Bakery-Quality Re",
+    "AI for Absolute Beginners: A Step-by-Step Guide to Help You Learn and ",
+    "The Self-Help Author's Toolkit: A Step-by-Step Guide to Structuring Yo"
+   ]
+  },
+  {
+   "topic": "barefoot contessa",
+   "heat": 5,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 8,
+   "median_reviews": 2841,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Cooking for Jeffrey: A Barefoot Contessa Cookbook",
+    "Simply Ina: A Barefoot Contessa Cookbook"
+   ]
+  },
+  {
+   "topic": "a barefoot contessa cookbook",
+   "heat": 5,
+   "books": 2,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 8,
+   "median_reviews": 2841,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Cooking for Jeffrey: A Barefoot Contessa Cookbook",
+    "Simply Ina: A Barefoot Contessa Cookbook"
+   ]
+  },
+  {
+   "topic": "the comprehensive guide",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 26,
+   "median_reviews": 3,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "Destination CCSP: The Comprehensive Guide"
+   ]
+  },
+  {
+   "topic": "a survival guide for humanity",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 25,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "The AI Apocalypse: A Survival Guide for Humanity"
+   ]
+  },
+  {
+   "topic": "how to go from overwhelmed to finished",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 15,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "Procrastinators Get Stuff Done: How to Go from Overwhelmed to Finished"
+   ]
+  },
+  {
+   "topic": "degree in a book",
+   "heat": 3,
+   "books": 3,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 3,
+   "best_rank": 54,
+   "median_reviews": 413,
+   "howto": false,
+   "categories": [
+    "Education & Teaching",
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "A Degree in a Book: Psychology: Everything You Need to Know to Master ",
+    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
+    "A Degree in a Book: Electrical And Mechanical Engineering: Everything "
+   ]
+  },
+  {
+   "topic": "a degree in a book",
+   "heat": 3,
+   "books": 3,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 3,
+   "best_rank": 54,
+   "median_reviews": 413,
+   "howto": false,
+   "categories": [
+    "Education & Teaching",
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "A Degree in a Book: Psychology: Everything You Need to Know to Master ",
+    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
+    "A Degree in a Book: Electrical And Mechanical Engineering: Everything "
+   ]
+  },
+  {
+   "topic": "ai for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 18,
+   "median_reviews": 92,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "AI for Beginners: [3 in 1]: Learn AI Basics, Master Prompt Engineering"
+   ]
+  },
+  {
+   "topic": "how to be good at life",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "How to Be Good at Life: Simple Systems to Achieve More and Stress Less"
+   ]
+  },
+  {
+   "topic": "modern japan travel guide",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 29,
+   "median_reviews": 16,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "Modern Japan Travel Guide: Smart Itineraries, Practical Planning Tips,"
+   ]
+  },
+  {
+   "topic": "a complete beginner's guide",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 25,
+   "median_reviews": 3,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "80 Just-Add-Water Mason Jar Meals: A Complete Beginner's Guide to Shel"
+   ]
+  },
+  {
+   "topic": "handbook of basic electronics",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 26,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Handbook Of Basic Electronics: Understanding Electronics from Scratch"
+   ]
+  },
+  {
+   "topic": "plc ladder logic for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": 11,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "PLC Ladder Logic for Beginners: Learn PLC Programming from Scratch wit"
+   ]
+  },
+  {
+   "topic": "an oncologist's guide for women",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 22,
+   "median_reviews": 17,
+   "howto": true,
+   "categories": [
+    "Science & Math"
+   ],
+   "examples": [
+    "Calming The Cancer Chaos: An Oncologist's Guide for Women to Understan"
+   ]
+  },
+  {
+   "topic": "consumer auto repair field guide",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 22,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "Consumer Auto Repair Field Guide: Volume One — Glove Box Edition"
+   ]
+  },
+  {
+   "topic": "the complete glp-1 guide for seniors",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 21,
+   "median_reviews": 75,
+   "howto": true,
+   "categories": [
+    "Health, Fitness & Dieting"
+   ],
+   "examples": [
+    "The Complete GLP-1 Guide for Seniors: Lose Weight Safely, Reduce Food "
+   ]
+  },
+  {
+   "topic": "ged study guide 2026-2027 all subjects",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 22,
+   "median_reviews": 15,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "GED STUDY GUIDE 2026-2027 ALL SUBJECTS: Complete study guide for Math,"
+   ]
+  },
+  {
+   "topic": "homemade snacks cookbook for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 23,
+   "median_reviews": 1,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Homemade Snacks Cookbook for Beginners: 150+ Crackers, Chips, Granola "
+   ]
+  },
+  {
+   "topic": "mediterranean diet cookbook for seniors",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 18,
+   "median_reviews": 69,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Mediterranean Diet Cookbook for Seniors: 550 Nourishing Recipes to Sup"
+   ]
+  },
+  {
+   "topic": "a nurse's guide to surviving and thriving",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 28,
+   "median_reviews": 4,
+   "howto": true,
+   "categories": [
+    "Self-Help"
+   ],
+   "examples": [
+    "Code Calm : A Nurse's Guide To Surviving and Thriving"
+   ]
+  },
+  {
+   "topic": "bread bakery staples cookbook for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 16,
+   "median_reviews": null,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Homemade Bread & Bakery Staples Cookbook for Beginners: 150+ Sandwich "
+   ]
+  },
+  {
+   "topic": "halloween crochet pattern book for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 17,
+   "median_reviews": 29,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "Halloween Crochet Pattern Book For Beginners: Easy Amigurumi & Hallowe"
+   ]
+  },
+  {
+   "topic": "the modern guide to querying literary agents",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 14,
+   "median_reviews": 46,
+   "howto": true,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "The Modern Guide to Querying Literary Agents: From Rejection to Repres"
+   ]
+  },
+  {
+   "topic": "homemade candy confections cookbook for beginners",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 30,
+   "median_reviews": 1,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Homemade Candy & Confections Cookbook for Beginners: 150+ Easy From-Sc"
+   ]
+  },
+  {
+   "topic": "the high-protein mediterranean cookbook for seniors",
+   "heat": 3,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 22,
+   "median_reviews": 83,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "The High-Protein Mediterranean Cookbook for Seniors: 100 Healthy and E"
+   ]
+  },
+  {
+   "topic": "elon musk",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 29,
+   "median_reviews": 25523,
+   "howto": false,
+   "categories": [
+    "Computers & Technology",
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Elon Musk",
+    "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future – A Bes"
+   ]
+  },
+  {
+   "topic": "milk street",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 59,
+   "median_reviews": 725,
+   "howto": false,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "Milk Street: The New Rules: Recipes That Will Change the Way You Cook",
+    "Milk Street: The World in a Skillet"
+   ]
+  },
+  {
+   "topic": "a beginner's guide",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 22,
+   "median_reviews": 300,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home",
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "The Compact Garden: A Beginner's Guide to Growing Vegetables in Small ",
+    "Oil: A Beginner's Guide (Beginner's Guides)"
+   ]
+  },
+  {
+   "topic": "big ideas simply explained",
+   "heat": 2,
+   "books": 2,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 2,
+   "best_rank": 23,
+   "median_reviews": 2635,
+   "howto": false,
+   "categories": [
+    "Health, Fitness & Dieting",
+    "Arts & Photography"
+   ],
+   "examples": [
+    "The Psychology Book: Big Ideas Simply Explained (DK Big Ideas)",
+    "The Classical Music Book: Big Ideas Simply Explained (DK Big Ideas)"
+   ]
+  },
+  {
+   "topic": "a field guide to getting lost",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 3,
+   "median_reviews": 1323,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "A Field Guide to Getting Lost"
+   ]
+  },
+  {
+   "topic": "simple painting projects for beginners",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 8,
+   "median_reviews": 1128,
+   "howto": true,
+   "categories": [
+    "Arts & Photography"
+   ],
+   "examples": [
+    "Watercolor for the Soul: Simple Painting Projects for Beginners, to Ca"
+   ]
+  },
+  {
+   "topic": "emotionally intelligent children an essential guide",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 6,
+   "median_reviews": 1262,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Tiny Humans, Big Emotions: How to Navigate Tantrums, Meltdowns, and De"
+   ]
+  },
+  {
+   "topic": "pilot's handbook",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 69,
+   "median_reviews": 658,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Pilot's Handbook of Aeronautical Knowledge: FAA-H-8083-25C"
+   ]
+  },
+  {
+   "topic": "how to fly a horse",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 30,
+   "median_reviews": 597,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "How to Fly a Horse: The Secret History of Creation, Invention, and Dis"
+   ]
+  },
+  {
+   "topic": "chemistry made easy",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 77,
+   "median_reviews": 1549,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Chemistry Made Easy: An Illustrated Study Guide For Students To Easily"
+   ]
+  },
+  {
+   "topic": "crochet for beginners",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 27,
+   "median_reviews": 2634,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "Crochet for Beginners: A Stitch Dictionary with Step-by-Step Illustrat"
+   ]
+  },
+  {
+   "topic": "how to rule the world",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 16,
+   "median_reviews": 968,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "How to Rule the World: An Education in Power at Stanford University"
+   ]
+  },
+  {
+   "topic": "ai guide for beginners",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 54,
+   "median_reviews": 703,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "AI Guide for Beginners: How to Use AI Prompts & Master Artificial Inte"
+   ]
+  },
+  {
+   "topic": "how to talk to anybody",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 67,
+   "median_reviews": 1055,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "How to Talk to Anybody: Learn the Secrets to Small Talk, Business, Man"
+   ]
+  },
+  {
+   "topic": "how to get things right",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 75,
+   "median_reviews": 15200,
+   "howto": true,
+   "categories": [
+    "Science & Math"
+   ],
+   "examples": [
+    "The Checklist Manifesto: How to Get Things Right"
+   ]
+  },
+  {
+   "topic": "how to braise everything",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 53,
+   "median_reviews": 286,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "How to Braise Everything: Classic, Modern, and Global Dishes Using a T"
+   ]
+  },
+  {
+   "topic": "a handbook for new stoics",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 59,
+   "median_reviews": 816,
+   "howto": true,
+   "categories": [
+    "Self-Help"
+   ],
+   "examples": [
+    "A Handbook for New Stoics: How to Thrive in a World Out of Your Contro"
+   ]
+  },
+  {
+   "topic": "herb gardening made simple",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 65,
+   "median_reviews": 8,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "Sprouting Wisdom: Herb Gardening Made Simple: The Complete Beginner's "
+   ]
+  },
+  {
+   "topic": "how to wipe your butt book",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 60,
+   "median_reviews": 175,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "How To Wipe Your Butt Book: A Simple, Step By Step Potty Training Soci"
+   ]
+  },
+  {
+   "topic": "a guide to what never changes",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 15,
+   "median_reviews": 5888,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "Same as Ever: A Guide to What Never Changes"
+   ]
+  },
+  {
+   "topic": "the complete beginner's guide",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 68,
+   "median_reviews": 531,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "The AI Workshop: The Complete Beginner's Guide to AI: Your A-Z Guide t"
+   ]
+  },
+  {
+   "topic": "how to get a return on failure",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 25,
+   "median_reviews": 194,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "How to Get a Return on Failure: Fail Smarter—Return Stronger"
+   ]
+  },
+  {
+   "topic": "how to keep house while drowning",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 17,
+   "median_reviews": 9511,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "How to Keep House While Drowning: A Gentle Approach to Cleaning and Or"
+   ]
+  },
+  {
+   "topic": "love a personal finance handbook",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 56,
+   "median_reviews": 2472,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Financial Feminist: Overcome the Patriarchy’s Bullsh*t to Master Your "
+   ]
+  },
+  {
+   "topic": "the kids' guide to sign language",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 78,
+   "median_reviews": 8,
+   "howto": true,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "The Kids' Guide to Sign Language (Kids' Guides)"
+   ]
+  },
+  {
+   "topic": "a travel guide to the middle ages",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 24,
+   "median_reviews": 271,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "A Travel Guide to the Middle Ages: The World Through Medieval Eyes"
+   ]
+  },
+  {
+   "topic": "how to manage your kindle library",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 63,
+   "median_reviews": 36,
+   "howto": true,
+   "categories": [
+    "Computers & Technology"
+   ],
+   "examples": [
+    "How to Manage Your Kindle Library: Organise, Delete and Borrow, Lend, "
+   ]
+  },
+  {
+   "topic": "how to become a straight-a student",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 11,
+   "median_reviews": 3062,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "How to Become a Straight-A Student: The Unconventional Strategies Real"
+   ]
+  },
+  {
+   "topic": "a handbook of magic spells and potions",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 72,
+   "median_reviews": 6148,
+   "howto": true,
+   "categories": [
+    "Reference"
+   ],
+   "examples": [
+    "Witchcraft: A Handbook of Magic Spells and Potions (Folklore Legends)"
+   ]
+  },
+  {
+   "topic": "your ultimate guide to building wealth",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 11,
+   "median_reviews": 85,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "How the Rich Get Richer: Your Ultimate Guide to Building Wealth"
+   ]
+  },
+  {
+   "topic": "how to stop struggling and start living",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 28,
+   "median_reviews": 6103,
+   "howto": true,
+   "categories": [
+    "Health, Fitness & Dieting"
+   ],
+   "examples": [
+    "The Happiness Trap: How to Stop Struggling and Start Living (Second Ed"
+   ]
+  },
+  {
+   "topic": "how to win friends and influence people",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 64,
+   "median_reviews": 106599,
+   "howto": true,
+   "categories": [
+    "Health, Fitness & Dieting"
+   ],
+   "examples": [
+    "How to Win Friends and Influence People: Updated For the Next Generati"
+   ]
+  },
+  {
+   "topic": "the overthinker's guide to making decisions",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 19,
+   "median_reviews": 390,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "The Overthinker's Guide to Making Decisions: How to Make Decisions wit"
+   ]
+  },
+  {
+   "topic": "the vertical veg guide to container gardening",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 52,
+   "median_reviews": 86,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "The Vertical Veg Guide to Container Gardening: How to Grow an Abundanc"
+   ]
+  }
+ ]
+}
