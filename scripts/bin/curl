@@ -1,0 +1,4 @@
+#!/bin/sh
+# Counting shim: records one line per request (time + URL), then runs the real curl unchanged.
+[ -n "$SNAPSHOT_REQUEST_LOG" ] && for a in "$@"; do last="$a"; done && printf '%s %s\n' "$(date -u +%FT%TZ)" "$last" >> "$SNAPSHOT_REQUEST_LOG"
+exec /usr/bin/curl "$@"

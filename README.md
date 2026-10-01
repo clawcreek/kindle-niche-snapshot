@@ -6,12 +6,15 @@ e.g. `https://raw.githubusercontent.com/clawcreek/kindle-niche-snapshot/main/sna
 
 ## Update frequency
 
-Once a week. The snapshot is meant to be produced by `scripts/refresh.sh`, run weekly on the maintainer's
-own machine (not GitHub Actions, not a server). That weekly job is **not installed yet**.
+Daily small batches, produced by `scripts/refresh.sh` on the maintainer's own machine (launchd, 03:00 local;
+not GitHub Actions, not a server):
 
-The current snapshot (2026-10-01) was a manual run that stopped early: Amazon returned a CAPTCHA during the
-deep check, so it has 67 topics but only 15 cards (`"stopped": "captcha"` in `manifest.json`).
-Check `cards` and `stopped` in the manifest before relying on a snapshot.
+- The hot list is rebuilt from the Kindle list pages, which are refetched once a week (7-day cache).
+- Each day deep-checks at most 12 due topics from the top 30 by heat (~250 requests, 8–12 s between pages,
+  60 s between keywords). A topic is due when it has no card or its card is older than 7 days.
+- A CAPTCHA stops the batch at once; the next day continues from the topic it stopped on.
+- Cards accumulate across days; `card_index` in the manifest gives each card's fetch date.
+- A day's batch is committed only if it added at least one card (`data: snapshot YYYY-MM-DD`).
 
 ## Data source
 
@@ -44,10 +47,12 @@ snapshot/
 | `cards`        | Number of keyword directories under `cards/`                   |
 | `files`        | Map of path (relative to `snapshot/`) → sha256 hex digest      |
 | `skill`        | Repo, script path, branch and commit of the generating skill   |
-| `requests`     | Total Amazon requests made by the run                          |
-| `elapsed_seconds` | Total run time                                              |
-| `steps`        | Requests and seconds per step (`topics`, `deep`)               |
-| `stopped`      | `null` for a complete run, otherwise why it stopped early (e.g. `captcha`) |
+| `requests`     | Amazon requests made by this run                               |
+| `elapsed_seconds` | Run time of this run                                        |
+| `steps`        | Requests and seconds per step of this run (`topics`, `deep`)   |
+| `new_cards`    | Card slugs added by this run                                   |
+| `stopped`      | `null`, or why this run's batch ended early and the next topic (`{"reason": "captcha", "next": "…"}`) |
+| `card_index`   | slug → `{keyword, fetched_at}` for every card in `cards/`      |
 
 ## Rules
 
