@@ -1,0 +1,191 @@
+[
+ {
+  "asin": "B0HHZLYCTW",
+  "title": "Handbook Of Basic Electronics: Understanding Electronics from Scratch",
+  "bsr": 90106,
+  "rating": null,
+  "price": 8.0,
+  "pub_date": "2026-09-06",
+  "pages": null,
+  "publisher": null,
+  "cats": [
+   [
+    2,
+    "Circuit Engineering"
+   ],
+   [
+    9,
+    "Science Experiments & Projects"
+   ],
+   [
+    12,
+    "Electricity Principles"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "You've copied the circuits. You've followed the tutorials. But do you actually know why any of it works? Most beginner electronics books start in the middle: a formula here, a breadboard photo there, and they hope something sticks. This one starts at the atom and doesn't stop until you've built and measured a working regulated DC power supply, understanding every single stage of it. Handbook of Basic Electronics builds your knowledge as one unbroken chain. Matter and atoms, potential, voltage, current, resistance and Ohm's Law, series and parallel circuits, Kirchhoff's laws, capacitance and RC behaviour, inductance and RL behaviour, semiconductors and the PN junction, diodes, Zener regulation, rectifiers, filters, and a complete power supply. Nothing appears out of nowhere. Every concept rests on the one before it. What's inside Concept-first teaching, where the intuition always comes before the formula. Plain-language analogies used where they genuinely clarify, then retired once you've outgrown them. 43 hands-on activities , each with objectives, component lists, connection steps, safety notes, and calculated-vs-measured result tables. Real oscilloscope work: probe settings, AC/DC coupling, waveform interpretation, ripple measurement. Worked examples and analysis questions that make you reason, not memorise. A full build-up to a regulated DC supply: half-wave, full-wave, bridge rectifier, capacitor filter, and Zener regulation Who this is for Engineering and diploma students who want to understand what the syllabus glosses over. Hobbyists who can wire up an Arduino but couldn't explain a voltage divider. Self-taught learners who want a real foundation instead of scattered YouTube tutorials. No prior electronics knowledge is assumed. None. Who it isn't for Anyone hunti"
+ },
+ {
+  "asin": "B0HLCX4F7S",
+  "title": "The Practical Electronics Bench Handbook: A Beginner's Guide to Components, Multimeter Mea",
+  "bsr": null,
+  "rating": null,
+  "price": 3.49,
+  "pub_date": "2026-09-29",
+  "pages": 42,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Learn electronics through simple battery-powered circuits you can build and measure. This beginner-friendly handbook explains resistors, LEDs, switches, diodes, capacitors, transistors, and the multimeter readings that help you understand them. Follow six low-voltage exercises with clear connection paths, worked calculations, and practical troubleshooting steps. You will also find circuit planning and measurement worksheets, fault logs, component selection tips, and a seven-session practice plan. The projects use an AA battery pack and common components. The book explains how to check a circuit safely and when to stop and seek qualified help.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_3\"]', '#CardInstanceWT4n_-P0uNsKAWLmRHR-jg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_3',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_pa"
+ },
+ {
+  "asin": "B01DRY54ME",
+  "title": "Practical Electronics Handbook",
+  "bsr": 2990867,
+  "rating": 4.5,
+  "price": 31.95,
+  "pub_date": "2013-10-22",
+  "pages": 208,
+  "publisher": "Newnes",
+  "cats": [
+   [
+    17783,
+    "Professional Engineering"
+   ],
+   [
+    92376,
+    "Engineering (Books)"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Practical Electronics Handbook  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_2\"]', '#CardInstancevU9KuorTm5g5auZ-7h3TFg')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_2',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_freeform_text__DOb62{margin:10px 0}._tell-amazon-desktop_style_tell_amazon_try_again_message__3L5ej{display:none;float:left}._tell-amazon-desktop_style_tell_amazon_checkbox_component__2mOqM{margin:10px 0}._tell-amazon-desktop_style_tell_amazon_checkbox_template__2Bgy6{display:none}._tell-amazon-desktop_style"
+ },
+ {
+  "asin": "B0HJ6CZKR4",
+  "title": "Mastering Electronics Handbook: A Hands-On Guide to Electricity, Circuits, Components, Mea",
+  "bsr": null,
+  "rating": 3.5,
+  "price": 9.99,
+  "pub_date": "2026-09-08",
+  "pages": 503,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "What if electronics could become something you understand by building, measuring, testing, and asking the right questions? Have you ever wondered why current flows through a resistor, how a capacitor stores energy, why a diode conducts in one direction, or how a tiny transistor can control a larger circuit? Mastering Electronics Handbook is designed to help beginners answer these questions and develop practical electronics skills without requiring extensive prior knowledge. What actually happens inside a circuit when you connect a battery, resistor, capacitor, diode, or transistor? You will learn the fundamentals of voltage, current, resistance, electrical power, Ohm's law, series and parallel circuits, measurement, and practical troubleshooting. You will also discover how common components work and how they can be combined to create useful circuits. How can a resistor control current? How does a capacitor create timing and filtering effects? How can a transistor function as a switch or amplifier? How do relays, timers, oscillators, logic gates, counters, and flip-flops allow circuits to respond to events? The book takes you through these concepts in a practical and understandable way. You will also explore sensors and analog signals, including light-sensitive devices, microphones, speakers, thresholds, amplification, filtering, and noise. You will learn about breadboards, schematics, soldering, prototyping, and reliable circuit construction. What happens when electricity interacts with magnetism? You will examine electromagnets, inductors, electromagnetic induction, motors, generators, and energy conversion. You will also explore audio and radio concepts such as frequency, wavelength, resonance, filters, antennas, and wireless signals. And what happens when hardware me"
+ },
+ {
+  "asin": "B09ZBD3487",
+  "title": "Basic Electronics Practical Handbook: For Pondicherry University First Year B.Tech Syllabu",
+  "bsr": null,
+  "rating": 4.4,
+  "price": 5.0,
+  "pub_date": "2022-05-01",
+  "pages": 70,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "For Pondicherry University First Year B.Tech Syllabus Based Electronics Lab manual for engineering students  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_3\"]', '#CardInstanceX9Z0qNl1heWDMhIWadqPYA')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_3',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_amazon_thankyou_page__1PP1x{display:none;margin-bottom:60px;padding:30px 15px}._tell-amazon-desktop_style_tell_amazon_dropdown__3USiH{margin-top:10px}._tell-amazon-desktop_style_tell_amazon_dropdown_label__2ydKL{margin-bottom:5px}._tell-amazon-desktop_style_alert_type__34m2d{display:none}._tell-amazon-desktop_style_tell_amazon_freeform_text__DOb62{margin:10px 0}._tell-amazon-desktop_style_tell_amazon_try_again_message__3L5ej{display:none;float:left}._tell-amazon-desktop_style_tell_amazon_checkbox_component__2mOqM{margin:10px 0}._tell-amazon-desktop_style_"
+ },
+ {
+  "asin": "B094YTRDL9",
+  "title": "Fundamentals of Basic Electronics: Basics of Electronics",
+  "bsr": null,
+  "rating": null,
+  "price": 2.99,
+  "pub_date": "2021-05-14",
+  "pages": 71,
+  "publisher": null,
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Fundamentals of Basic Electronics is a practical and engaging guide designed to introduce readers to the core principles that drive modern electronic systems. Whether you are a beginner, student, or enthusiast, this book provides a strong starting point to understand how electronic devices function and interact in everyday life. The book begins with the essential concepts of electricity, including voltage, current, resistance, and power, explained in a clear and approachable manner. It then moves into the study of fundamental electronic components such as diodes, transistors, resistors, and capacitors, highlighting their roles and behavior in circuits. Each topic is supported with simple explanations and relatable examples to help readers connect theory with real-world applications. As you progress, the book introduces basic circuit design and analysis, enabling you to understand how individual components work together to create functional electronic systems. It also touches upon key ideas like signal flow, amplification, and switching, which form the foundation of modern electronics. Special emphasis is placed on building practical understanding, making it easier for readers to visualize and apply concepts. The content is structured to gradually develop confidence and problem-solving skills without overwhelming technical complexity. By the end of this book, readers will have a clear understanding of the basic building blocks of electronics and how they are used in devices we rely on every day. It serves as an ideal stepping stone for further exploration into advanced electronics, engineering, and technology-related fields.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstancegTLZSbzukmdj6IQMxpWBIw')('mark', 'bb')} if(wi"
+ },
+ {
+  "asin": "B005H84AJM",
+  "title": "Practical Electronics Handbook",
+  "bsr": null,
+  "rating": 4.4,
+  "price": 52.95,
+  "pub_date": "2007-01-11",
+  "pages": 592,
+  "publisher": "Newnes",
+  "cats": [
+   [
+    493,
+    "Industrial Product Design"
+   ],
+   [
+    652,
+    "Microelectronics"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 26,
+  "description": "Ian Sinclair's Practical Electronics Handbook combines a wealth useful day-to-day electronics information, concise explanations and practical guidance in this essential companion to anyone involved in electronics design and construction. The compact collection of key data, fundamental principles and circuit design basics provides an ideal reference for a wide range of students, enthusiasts, technicians and practitioners of electronics who have progressed beyond the basics. The sixth edition is updated throughout with new material on microcontrollers and computer assistance, and a new chapter on digital signal processing. Invaluable handbook and reference for hobbyists, students and technicians Essential day-to-day electronics information, clear explanations and practical guidance in one compact volume Assumes some previous electronics knowledge but coverage to interest beginners and professionals alike  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstancem1TcOpvNegdiDf7JikJ4RQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_a"
+ },
+ {
+  "asin": "B004YO0US0",
+  "title": "Electronic Technology Handbook (McGraw-Hill Series on Electronics)",
+  "bsr": 4116919,
+  "rating": 3.6,
+  "price": 50.04,
+  "pub_date": "1999-06-21",
+  "pages": 598,
+  "publisher": "McGraw Hill",
+  "cats": [
+   [
+    881,
+    "Circuit Engineering"
+   ],
+   [
+    1148,
+    "Vocational Guidance"
+   ],
+   [
+    1358,
+    "Electricity Principles"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "Cutting edge electronics technology demystified Anyone with a basic technical background can gain a fast understanding of electronics technology with the easy-to-read Electronics Technology Handbook . Electronic engineering newcomers will find this a one-step, non-mathematical resource for clear explanations of electronics technology essentials--from AC theory and generation to wireless communications and microprocessors. Encyclopedic coverage supported with hundreds of concept-clarifying illustrations shows you exactly how contemporary electronic devices and systems work and interact. You'll quickly discover the principles at the heart of such widely used technologies as transistors; integrated circuits; television; ATM machines; cell phones; bar-code readers; sensors; robotics; satellites; electron microscopes; process control; radar; global positioning system; night vision systems; and much more.  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_5\"]', '#CardInstancei-DjBOol1iS-RqSrZsOi-w')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_5',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amaz"
+ },
+ {
+  "asin": "B0DVMQ87X4",
+  "title": "The Resource Handbook of Electronics (Electronics Handbook Series)",
+  "bsr": null,
+  "rating": 3.0,
+  "price": 28.99,
+  "pub_date": "2018-10-08",
+  "pages": 516,
+  "publisher": "CRC Press",
+  "cats": [
+   [
+    5202,
+    "Electrical & Electronic Circuits"
+   ]
+  ],
+  "free_promo": false,
+  "reviews_n": 2,
+  "description": "Building upon the extensive resources of Whitaker's The Electronics Handbook, The Resource Handbook of Electronics offers the most complete collection of reference and tabular data available. It provides the data that engineers and technologists need in a clear, concise format that does away with detailed explanations and presents just the facts-the essential tables, charts, formulas, definitions, and equations with just enough detail to accomplish the task at hand.This one-stop reference covers a broad range of technologies, emphasizes practical applications, and provides references to more detailed information on important subjects. Its many topics include:  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_0\"]', '#CardInstanceOKk3P-RkOFIYV4ZHFGcn0A')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_0',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-webkit-filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);filter:var(--aok-sfs-effect-mode-dark-color-silhouette-white,none);height:20px;margin-right:4px;width:20px}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K,._tell-amazon-desktop_style_tell_amazon_popover_inner__3tPIV{padding:20px 24px 0;width:65vw}._tell-amazon-desktop_style_tell_amazon_modal_spinner__3bz5K{height:15vh;margin-top:10vh;text-align:center}._tell-amazon-desktop_style_tell_amazon_no_email_alert__1t6PT{margin-bottom:60px}a[id^=tellAmazonDropdown],a[id^=tellAmazon_][id*=Dropdown]{white-space:normal!important} ._tell-amazon-desktop_style_tell_amazon_component_preload__2jBs4{display:none}._tell-amazon-desktop_style_tell_a"
+ },
+ {
+  "asin": "B0CTZJFXVY",
+  "title": "Electronics Handbook made for Everyone",
+  "bsr": null,
+  "rating": null,
+  "price": 8.99,
+  "pub_date": "2024-01-09",
+  "pages": 118,
+  "publisher": "Lulu.com",
+  "cats": [],
+  "free_promo": false,
+  "reviews_n": null,
+  "description": "Electronics Handbook Made for Everyone, is the result of a long-time dream; writing a book on a complex subject in a way that is easy to understand, approachable and fun. Finally, a book on electronics that is aimed at everyone. You don’t need a college degree or any prior knowledge to fully enjoy and make sense of the fascinating world of electronics. We tackle every major subject that relates to electrons and how we’ve managed to harness the incredible invisible force that emanates from their movement, namely, electromagnetism. A buyer’s guide is also included in the first chapter to help enthusiasts and beginners become familiar with the basic set of tools that should be part of a tech’s workbench. The entire book is meant to offer a solid foundation of theoretical knowledge and basic principles of electronics with minimal mathematics, all explained in plain language, suitable for all ages. If you are looking to pick up a new hobby or simply want to learn how most of our modern day technology works, this is the book for you. CHAPTER 1: INTRODUCTION TO ELECTRONICS CHAPTER 2: ELECTRONIC COMPONENTS CHAPTER 3: DC AND AC POWER SUPPLIES CHAPTER 4: TRANSISTORS AND OTHER SEMICONDUCTORS CHAPTER 5: ANALOG AND DIGITAL SIGNALS CHAPTER 6: WIRED AND WIRELESS COMMUNICATIONS CHAPTER 7: IMAGE & PIXEL SENSING AND EMISSION CHAPTER 8: ALL ABOUT THE INTERNET CHAPTER 9: FINAL THOUGHTS  if(window.mix_csa){window.mix_csa('[cel_widget_id=\"tell-amazon-desktop_DetailPage_8\"]', '#CardInstanceg9-vDG5z6AdosuH0fyc5OQ')('mark', 'bb')} if(window.uet){window.uet('bb','tell-amazon-desktop_DetailPage_8',{wb: 1})} ._tell-amazon-desktop_style_tell_amazon_icon_core_report__Fs1ah{color:#0f1111;color:var(--aok-sfs-color-page-primary-normal-fg,#0f1111);display:inline-block;-webkit-filter:none;filter:none;-we"
+ }
+]

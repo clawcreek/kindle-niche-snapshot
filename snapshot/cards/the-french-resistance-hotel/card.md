@@ -1,5 +1,5 @@
 # Niche card · the french resistance hotel
-_exported 2026-09-30 · gate rubric v2_
+_exported 2026-10-01 · gate rubric v2_
 
 ### the french resistance hotel  —  34/100  [FAIL]
 - 市场规模：前 10 名合计 ≈ 337.4 本/天；做到第 3 名 ≈ $484/月版税（中位价 $15.989999999999998）

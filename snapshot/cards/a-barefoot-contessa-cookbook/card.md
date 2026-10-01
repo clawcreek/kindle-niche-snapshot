@@ -1,5 +1,5 @@
 # Niche card · a barefoot contessa cookbook
-_exported 2026-09-30 · gate rubric v2_
+_exported 2026-10-01 · gate rubric v2_
 
 ### a barefoot contessa cookbook  —  10/100  [FAIL]
 - 市场规模：前 10 名合计 ≈ 68.5 本/天；做到第 3 名 ≈ $335/月版税（中位价 $6.49）

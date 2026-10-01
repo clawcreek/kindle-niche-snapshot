@@ -1,5 +1,5 @@
 # Niche card · a survival guide
-_exported 2026-09-30 · gate rubric v2_
+_exported 2026-10-01 · gate rubric v2_
 
 ### a survival guide  —  25/100  [CONDITIONAL]
 - 市场规模：前 10 名合计 ≈ 21.6 本/天；做到第 3 名 ≈ $836/月版税（中位价 $9.99）

@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-09-30 11:39",
+ "fetched_at": "2026-10-01 11:16",
  "books": 1350,
  "topics": [
   {
    "topic": "french resistance hotel",
-   "heat": 11,
+   "heat": 10,
    "books": 2,
    "on_hot_new_releases": 2,
    "on_best_sellers": 1,
-   "best_rank": 5,
-   "median_reviews": 38,
+   "best_rank": 6,
+   "median_reviews": 41,
    "howto": false,
    "categories": [
     "Nonfiction",
@@ -21,12 +21,12 @@
   },
   {
    "topic": "the french resistance hotel",
-   "heat": 11,
+   "heat": 10,
    "books": 2,
    "on_hot_new_releases": 2,
    "on_best_sellers": 1,
-   "best_rank": 5,
-   "median_reviews": 38,
+   "best_rank": 6,
+   "median_reviews": 41,
    "howto": false,
    "categories": [
     "Nonfiction",
@@ -38,12 +38,12 @@
   },
   {
    "topic": "a scenario",
-   "heat": 8,
+   "heat": 9,
    "books": 2,
    "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 2,
-   "median_reviews": 7348,
+   "on_best_sellers": 2,
+   "best_rank": 4,
+   "median_reviews": 1832,
    "howto": false,
    "categories": [
     "Science & Math",
@@ -55,29 +55,13 @@
    ]
   },
   {
-   "topic": "a survival guide",
-   "heat": 6,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 9,
-   "median_reviews": 23,
-   "howto": true,
-   "categories": [
-    "Health, Fitness & Dieting"
-   ],
-   "examples": [
-    "OCD Sucks: A Survival Guide"
-   ]
-  },
-  {
    "topic": "a step-by-step",
    "heat": 5,
    "books": 3,
    "on_hot_new_releases": 1,
    "on_best_sellers": 2,
-   "best_rank": 13,
-   "median_reviews": 179,
+   "best_rank": 15,
+   "median_reviews": 180,
    "howto": false,
    "categories": [
     "Cookbooks, Food & Wine",
@@ -95,7 +79,7 @@
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 8,
+   "best_rank": 9,
    "median_reviews": 2841,
    "howto": false,
    "categories": [
@@ -112,7 +96,7 @@
    "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 8,
+   "best_rank": 9,
    "median_reviews": 2841,
    "howto": false,
    "categories": [
@@ -124,35 +108,21 @@
    ]
   },
   {
-   "topic": "the comprehensive guide",
+   "topic": "a beginner's guide",
    "heat": 4,
-   "books": 1,
+   "books": 2,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 26,
-   "median_reviews": 3,
+   "best_rank": 16,
+   "median_reviews": 65,
    "howto": true,
    "categories": [
-    "Computers & Technology"
+    "Crafts, Hobbies & Home",
+    "Education & Teaching"
    ],
    "examples": [
-    "Destination CCSP: The Comprehensive Guide"
-   ]
-  },
-  {
-   "topic": "a survival guide for humanity",
-   "heat": 4,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 1,
-   "best_rank": 25,
-   "median_reviews": null,
-   "howto": true,
-   "categories": [
-    "Computers & Technology"
-   ],
-   "examples": [
-    "The AI Apocalypse: A Survival Guide for Humanity"
+    "The Compact Garden: A Beginner's Guide to Growing Vegetables in Small ",
+    "Complete 66 Pages Bible Study Guide: A Beginner's Guide That Walks You"
    ]
   },
   {
@@ -161,7 +131,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 1,
-   "best_rank": 15,
+   "best_rank": 14,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -172,41 +142,35 @@
    ]
   },
   {
-   "topic": "degree in a book",
-   "heat": 3,
-   "books": 3,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 3,
-   "best_rank": 54,
-   "median_reviews": 413,
-   "howto": false,
+   "topic": "how to build profitable mission-driven healthcare businesses",
+   "heat": 4,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 1,
+   "best_rank": 19,
+   "median_reviews": 30,
+   "howto": true,
    "categories": [
-    "Education & Teaching",
-    "Engineering & Transportation"
+    "Business & Money"
    ],
    "examples": [
-    "A Degree in a Book: Psychology: Everything You Need to Know to Master ",
-    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
-    "A Degree in a Book: Electrical And Mechanical Engineering: Everything "
+    "The Business of Healing: How to Build Profitable, Mission-Driven Healt"
    ]
   },
   {
-   "topic": "a degree in a book",
+   "topic": "a survival guide",
    "heat": 3,
-   "books": 3,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 3,
-   "best_rank": 54,
-   "median_reviews": 413,
-   "howto": false,
+   "books": 1,
+   "on_hot_new_releases": 1,
+   "on_best_sellers": 0,
+   "best_rank": 28,
+   "median_reviews": 25,
+   "howto": true,
    "categories": [
-    "Education & Teaching",
-    "Engineering & Transportation"
+    "Health, Fitness & Dieting"
    ],
    "examples": [
-    "A Degree in a Book: Psychology: Everything You Need to Know to Master ",
-    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
-    "A Degree in a Book: Electrical And Mechanical Engineering: Everything "
+    "OCD Sucks: A Survival Guide"
    ]
   },
   {
@@ -215,8 +179,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 18,
-   "median_reviews": 92,
+   "best_rank": 19,
+   "median_reviews": 95,
    "howto": true,
    "categories": [
     "Computers & Technology"
@@ -231,30 +195,30 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 23,
+   "best_rank": 22,
    "median_reviews": null,
    "howto": true,
    "categories": [
-    "Business & Money"
+    "Health, Fitness & Dieting"
    ],
    "examples": [
     "How to Be Good at Life: Simple Systems to Achieve More and Stress Less"
    ]
   },
   {
-   "topic": "modern japan travel guide",
+   "topic": "f1 cars work - made easy",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 29,
-   "median_reviews": 16,
+   "best_rank": 30,
+   "median_reviews": 4,
    "howto": true,
    "categories": [
-    "Travel"
+    "Engineering & Transportation"
    ],
    "examples": [
-    "Modern Japan Travel Guide: Smart Itineraries, Practical Planning Tips,"
+    "How F1 Cars Work - Made Easy: Engines, Aerodynamics, and Strategy Expl"
    ]
   },
   {
@@ -279,7 +243,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 26,
+   "best_rank": 15,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -290,29 +254,13 @@
    ]
   },
   {
-   "topic": "plc ladder logic for beginners",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 23,
-   "median_reviews": 11,
-   "howto": true,
-   "categories": [
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "PLC Ladder Logic for Beginners: Learn PLC Programming from Scratch wit"
-   ]
-  },
-  {
    "topic": "an oncologist's guide for women",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 22,
-   "median_reviews": 17,
+   "best_rank": 26,
+   "median_reviews": 18,
    "howto": true,
    "categories": [
     "Science & Math"
@@ -327,7 +275,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 22,
+   "best_rank": 28,
    "median_reviews": null,
    "howto": true,
    "categories": [
@@ -338,19 +286,19 @@
    ]
   },
   {
-   "topic": "the complete glp-1 guide for seniors",
+   "topic": "complete 66 pages bible study guide",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 21,
-   "median_reviews": 75,
+   "best_rank": 18,
+   "median_reviews": 35,
    "howto": true,
    "categories": [
-    "Health, Fitness & Dieting"
+    "Education & Teaching"
    ],
    "examples": [
-    "The Complete GLP-1 Guide for Seniors: Lose Weight Safely, Reduce Food "
+    "Complete 66 Pages Bible Study Guide: A Beginner's Guide That Walks You"
    ]
   },
   {
@@ -359,7 +307,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 22,
+   "best_rank": 16,
    "median_reviews": 15,
    "howto": true,
    "categories": [
@@ -375,7 +323,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 23,
+   "best_rank": 17,
    "median_reviews": 1,
    "howto": true,
    "categories": [
@@ -391,8 +339,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 18,
-   "median_reviews": 69,
+   "best_rank": 24,
+   "median_reviews": 66,
    "howto": true,
    "categories": [
     "Cookbooks, Food & Wine"
@@ -407,8 +355,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 28,
-   "median_reviews": 4,
+   "best_rank": 23,
+   "median_reviews": 5,
    "howto": true,
    "categories": [
     "Self-Help"
@@ -439,7 +387,7 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 17,
+   "best_rank": 13,
    "median_reviews": 29,
    "howto": true,
    "categories": [
@@ -455,8 +403,8 @@
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 14,
-   "median_reviews": 46,
+   "best_rank": 16,
+   "median_reviews": 48,
    "howto": true,
    "categories": [
     "Reference"
@@ -466,88 +414,70 @@
    ]
   },
   {
-   "topic": "homemade candy confections cookbook for beginners",
+   "topic": "casseroles family bakes cookbook for beginners",
    "heat": 3,
    "books": 1,
    "on_hot_new_releases": 1,
    "on_best_sellers": 0,
-   "best_rank": 30,
+   "best_rank": 26,
    "median_reviews": 1,
    "howto": true,
    "categories": [
     "Cookbooks, Food & Wine"
    ],
    "examples": [
-    "Homemade Candy & Confections Cookbook for Beginners: 150+ Easy From-Sc"
+    "Homemade Casseroles & Family Bakes Cookbook for Beginners: 150+ Easy F"
    ]
   },
   {
-   "topic": "the high-protein mediterranean cookbook for seniors",
-   "heat": 3,
-   "books": 1,
-   "on_hot_new_releases": 1,
-   "on_best_sellers": 0,
-   "best_rank": 22,
-   "median_reviews": 83,
-   "howto": true,
-   "categories": [
-    "Cookbooks, Food & Wine"
-   ],
-   "examples": [
-    "The High-Protein Mediterranean Cookbook for Seniors: 100 Healthy and E"
-   ]
-  },
-  {
-   "topic": "elon musk",
+   "topic": "degree in a book",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 29,
-   "median_reviews": 25523,
+   "best_rank": 57,
+   "median_reviews": 230,
    "howto": false,
    "categories": [
-    "Computers & Technology",
-    "Engineering & Transportation"
+    "Education & Teaching"
    ],
    "examples": [
-    "Elon Musk",
-    "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future – A Bes"
+    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
+    "A Degree in a Book: Philosophy: Everything You Need to Know to Master "
    ]
   },
   {
-   "topic": "milk street",
+   "topic": "ink it monochrome",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 59,
-   "median_reviews": 725,
+   "best_rank": 28,
+   "median_reviews": 2,
    "howto": false,
    "categories": [
-    "Cookbooks, Food & Wine"
+    "Crafts, Hobbies & Home"
    ],
    "examples": [
-    "Milk Street: The New Rules: Recipes That Will Change the Way You Cook",
-    "Milk Street: The World in a Skillet"
+    "INK IT MONOCHROME:: One-Color Stress Relief Coloring Book for Adults-M",
+    "INK IT MONOCHROME: One-Color Stress Relief Coloring Book-Calm Horizon "
    ]
   },
   {
-   "topic": "a beginner's guide",
+   "topic": "a degree in a book",
    "heat": 2,
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 22,
-   "median_reviews": 300,
-   "howto": true,
+   "best_rank": 57,
+   "median_reviews": 230,
+   "howto": false,
    "categories": [
-    "Crafts, Hobbies & Home",
-    "Engineering & Transportation"
+    "Education & Teaching"
    ],
    "examples": [
-    "The Compact Garden: A Beginner's Guide to Growing Vegetables in Small ",
-    "Oil: A Beginner's Guide (Beginner's Guides)"
+    "A Degree in a Book: Anthropology: Everything You Need to Know to Maste",
+    "A Degree in a Book: Philosophy: Everything You Need to Know to Master "
    ]
   },
   {
@@ -556,7 +486,7 @@
    "books": 2,
    "on_hot_new_releases": 0,
    "on_best_sellers": 2,
-   "best_rank": 23,
+   "best_rank": 15,
    "median_reviews": 2635,
    "howto": false,
    "categories": [
@@ -569,12 +499,28 @@
    ]
   },
   {
+   "topic": "how to rule the world",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 10,
+   "median_reviews": 973,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "How to Rule the World: An Education in Power at Stanford University"
+   ]
+  },
+  {
    "topic": "a field guide to getting lost",
    "heat": 2,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 3,
+   "best_rank": 6,
    "median_reviews": 1323,
    "howto": true,
    "categories": [
@@ -585,19 +531,51 @@
    ]
   },
   {
-   "topic": "simple painting projects for beginners",
+   "topic": "how to keep house while drowning",
    "heat": 2,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 8,
-   "median_reviews": 1128,
+   "best_rank": 10,
+   "median_reviews": 9512,
    "howto": true,
    "categories": [
-    "Arts & Photography"
+    "Crafts, Hobbies & Home"
    ],
    "examples": [
-    "Watercolor for the Soul: Simple Painting Projects for Beginners, to Ca"
+    "How to Keep House While Drowning: A Gentle Approach to Cleaning and Or"
+   ]
+  },
+  {
+   "topic": "a travel guide to the middle ages",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 2,
+   "median_reviews": 271,
+   "howto": true,
+   "categories": [
+    "Travel"
+   ],
+   "examples": [
+    "A Travel Guide to the Middle Ages: The World Through Medieval Eyes"
+   ]
+  },
+  {
+   "topic": "your ultimate guide to building wealth",
+   "heat": 2,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 10,
+   "median_reviews": 85,
+   "howto": true,
+   "categories": [
+    "Business & Money"
+   ],
+   "examples": [
+    "How the Rich Get Richer: Your Ultimate Guide to Building Wealth"
    ]
   },
   {
@@ -607,7 +585,7 @@
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
    "best_rank": 6,
-   "median_reviews": 1262,
+   "median_reviews": 1264,
    "howto": true,
    "categories": [
     "Education & Teaching"
@@ -622,8 +600,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 69,
-   "median_reviews": 658,
+   "best_rank": 80,
+   "median_reviews": 660,
    "howto": true,
    "categories": [
     "Engineering & Transportation"
@@ -633,29 +611,13 @@
    ]
   },
   {
-   "topic": "how to fly a horse",
-   "heat": 1,
-   "books": 1,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 1,
-   "best_rank": 30,
-   "median_reviews": 597,
-   "howto": true,
-   "categories": [
-    "Engineering & Transportation"
-   ],
-   "examples": [
-    "How to Fly a Horse: The Secret History of Creation, Invention, and Dis"
-   ]
-  },
-  {
    "topic": "chemistry made easy",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 77,
-   "median_reviews": 1549,
+   "best_rank": 72,
+   "median_reviews": 1550,
    "howto": true,
    "categories": [
     "Education & Teaching"
@@ -670,7 +632,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 27,
+   "best_rank": 22,
    "median_reviews": 2634,
    "howto": true,
    "categories": [
@@ -681,28 +643,12 @@
    ]
   },
   {
-   "topic": "how to rule the world",
-   "heat": 1,
-   "books": 1,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 1,
-   "best_rank": 16,
-   "median_reviews": 968,
-   "howto": true,
-   "categories": [
-    "Education & Teaching"
-   ],
-   "examples": [
-    "How to Rule the World: An Education in Power at Stanford University"
-   ]
-  },
-  {
    "topic": "ai guide for beginners",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 54,
+   "best_rank": 62,
    "median_reviews": 703,
    "howto": true,
    "categories": [
@@ -718,8 +664,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 67,
-   "median_reviews": 1055,
+   "best_rank": 60,
+   "median_reviews": 1056,
    "howto": true,
    "categories": [
     "Business & Money"
@@ -729,12 +675,28 @@
    ]
   },
   {
+   "topic": "radio antenna handbook",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 77,
+   "median_reviews": 15,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Radio Antenna Handbook for SHTF: OH8STN: Pragmatic Field Notes for SHT"
+   ]
+  },
+  {
    "topic": "how to get things right",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 75,
+   "best_rank": 72,
    "median_reviews": 15200,
    "howto": true,
    "categories": [
@@ -750,7 +712,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 53,
+   "best_rank": 52,
    "median_reviews": 286,
    "howto": true,
    "categories": [
@@ -761,35 +723,19 @@
    ]
   },
   {
-   "topic": "a handbook for new stoics",
+   "topic": "easy cbt therapy workbook",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 59,
-   "median_reviews": 816,
+   "best_rank": 79,
+   "median_reviews": 387,
    "howto": true,
    "categories": [
-    "Self-Help"
+    "Education & Teaching"
    ],
    "examples": [
-    "A Handbook for New Stoics: How to Thrive in a World Out of Your Contro"
-   ]
-  },
-  {
-   "topic": "herb gardening made simple",
-   "heat": 1,
-   "books": 1,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 1,
-   "best_rank": 65,
-   "median_reviews": 8,
-   "howto": true,
-   "categories": [
-    "Crafts, Hobbies & Home"
-   ],
-   "examples": [
-    "Sprouting Wisdom: Herb Gardening Made Simple: The Complete Beginner's "
+    "Helping Children with ADHD and Oppositional Defiant Disorder: Easy CBT"
    ]
   },
   {
@@ -798,7 +744,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 60,
+   "best_rank": 71,
    "median_reviews": 175,
    "howto": true,
    "categories": [
@@ -814,8 +760,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 15,
-   "median_reviews": 5888,
+   "best_rank": 18,
+   "median_reviews": 5890,
    "howto": true,
    "categories": [
     "Business & Money"
@@ -830,7 +776,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 68,
+   "best_rank": 59,
    "median_reviews": 531,
    "howto": true,
    "categories": [
@@ -846,8 +792,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 25,
-   "median_reviews": 194,
+   "best_rank": 27,
+   "median_reviews": 195,
    "howto": true,
    "categories": [
     "Business & Money"
@@ -857,19 +803,19 @@
    ]
   },
   {
-   "topic": "how to keep house while drowning",
+   "topic": "black decker the complete guide",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 17,
-   "median_reviews": 9511,
+   "best_rank": 71,
+   "median_reviews": 78,
    "howto": true,
    "categories": [
     "Crafts, Hobbies & Home"
    ],
    "examples": [
-    "How to Keep House While Drowning: A Gentle Approach to Cleaning and Or"
+    "Black & Decker The Complete Guide to Wiring, Updated 9th Edition: Curr"
    ]
   },
   {
@@ -878,8 +824,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 56,
-   "median_reviews": 2472,
+   "best_rank": 62,
+   "median_reviews": 2473,
    "howto": true,
    "categories": [
     "Education & Teaching"
@@ -894,7 +840,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 78,
+   "best_rank": 73,
    "median_reviews": 8,
    "howto": true,
    "categories": [
@@ -905,29 +851,13 @@
    ]
   },
   {
-   "topic": "a travel guide to the middle ages",
-   "heat": 1,
-   "books": 1,
-   "on_hot_new_releases": 0,
-   "on_best_sellers": 1,
-   "best_rank": 24,
-   "median_reviews": 271,
-   "howto": true,
-   "categories": [
-    "Travel"
-   ],
-   "examples": [
-    "A Travel Guide to the Middle Ages: The World Through Medieval Eyes"
-   ]
-  },
-  {
    "topic": "how to manage your kindle library",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 63,
-   "median_reviews": 36,
+   "best_rank": 73,
+   "median_reviews": 37,
    "howto": true,
    "categories": [
     "Computers & Technology"
@@ -937,13 +867,29 @@
    ]
   },
   {
+   "topic": "a guide to spiritual enlightenment",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 77,
+   "median_reviews": 54860,
+   "howto": true,
+   "categories": [
+    "Self-Help"
+   ],
+   "examples": [
+    "The Power of Now: A Guide to Spiritual Enlightenment"
+   ]
+  },
+  {
    "topic": "how to become a straight-a student",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 11,
-   "median_reviews": 3062,
+   "best_rank": 17,
+   "median_reviews": 3064,
    "howto": true,
    "categories": [
     "Education & Teaching"
@@ -953,35 +899,67 @@
    ]
   },
   {
-   "topic": "a handbook of magic spells and potions",
+   "topic": "the ultimate survival medicine guide",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 72,
-   "median_reviews": 6148,
+   "best_rank": 27,
+   "median_reviews": 3380,
    "howto": true,
    "categories": [
     "Reference"
    ],
    "examples": [
-    "Witchcraft: A Handbook of Magic Spells and Potions (Folklore Legends)"
+    "The Ultimate Survival Medicine Guide: Emergency Preparedness for ANY D"
    ]
   },
   {
-   "topic": "your ultimate guide to building wealth",
+   "topic": "how to be successful in today's world",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 11,
-   "median_reviews": 85,
+   "best_rank": 27,
+   "median_reviews": 119,
    "howto": true,
    "categories": [
-    "Business & Money"
+    "Travel"
    ],
    "examples": [
-    "How the Rich Get Richer: Your Ultimate Guide to Building Wealth"
+    "Plan E: How to Be Successful in Today's World"
+   ]
+  },
+  {
+   "topic": "a comprehensive guide with 450 recipes",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 28,
+   "median_reviews": 231,
+   "howto": true,
+   "categories": [
+    "Cookbooks, Food & Wine"
+   ],
+   "examples": [
+    "The Complete Beans and Grains Cookbook: A Comprehensive Guide with 450"
+   ]
+  },
+  {
+   "topic": "simple painting projects for beginners",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 23,
+   "median_reviews": 1128,
+   "howto": true,
+   "categories": [
+    "Arts & Photography"
+   ],
+   "examples": [
+    "Watercolor for the Soul: Simple Painting Projects for Beginners, to Ca"
    ]
   },
   {
@@ -990,7 +968,7 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 28,
+   "best_rank": 30,
    "median_reviews": 6103,
    "howto": true,
    "categories": [
@@ -1006,8 +984,8 @@
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 64,
-   "median_reviews": 106599,
+   "best_rank": 58,
+   "median_reviews": 106606,
    "howto": true,
    "categories": [
     "Health, Fitness & Dieting"
@@ -1017,13 +995,45 @@
    ]
   },
   {
+   "topic": "now - includes reflections for beginners",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 24,
+   "median_reviews": 536,
+   "howto": true,
+   "categories": [
+    "Crafts, Hobbies & Home"
+   ],
+   "examples": [
+    "The Cat and The Moon - 33 Zen Stories: Slow Down, Calm the Mind, Relie"
+   ]
+  },
+  {
+   "topic": "how to create tech products customers love",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 72,
+   "median_reviews": 6327,
+   "howto": true,
+   "categories": [
+    "Engineering & Transportation"
+   ],
+   "examples": [
+    "Inspired: How to Create Tech Products Customers Love (Silicon Valley P"
+   ]
+  },
+  {
    "topic": "the overthinker's guide to making decisions",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 19,
-   "median_reviews": 390,
+   "best_rank": 21,
+   "median_reviews": 391,
    "howto": true,
    "categories": [
     "Business & Money"
@@ -1033,12 +1043,44 @@
    ]
   },
   {
+   "topic": "dialectical behavior therapy skills workbook",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 24,
+   "median_reviews": 10817,
+   "howto": true,
+   "categories": [
+    "Health, Fitness & Dieting"
+   ],
+   "examples": [
+    "The Dialectical Behavior Therapy Skills Workbook: Practical DBT Exerci"
+   ]
+  },
+  {
+   "topic": "the complete authoritative guide for parents",
+   "heat": 1,
+   "books": 1,
+   "on_hot_new_releases": 0,
+   "on_best_sellers": 1,
+   "best_rank": 77,
+   "median_reviews": 1062,
+   "howto": true,
+   "categories": [
+    "Education & Teaching"
+   ],
+   "examples": [
+    "Taking Charge of ADHD: The Complete, Authoritative Guide for Parents"
+   ]
+  },
+  {
    "topic": "the vertical veg guide to container gardening",
    "heat": 1,
    "books": 1,
    "on_hot_new_releases": 0,
    "on_best_sellers": 1,
-   "best_rank": 52,
+   "best_rank": 77,
    "median_reviews": 86,
    "howto": true,
    "categories": [

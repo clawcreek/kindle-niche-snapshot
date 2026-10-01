@@ -1,5 +1,5 @@
 # Niche card · barefoot contessa
-_exported 2026-09-30 · gate rubric v2_
+_exported 2026-10-01 · gate rubric v2_
 
 ### barefoot contessa  —  11/100  [FAIL]
 - 市场规模：前 10 名合计 ≈ 64.7 本/天；做到第 3 名 ≈ $278/月版税（中位价 $6.99）

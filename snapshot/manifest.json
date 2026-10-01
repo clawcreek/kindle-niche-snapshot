@@ -1,47 +1,59 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-09-30T15:49:27Z",
- "topics": 64,
- "cards": 9,
+ "generated_at": "2026-10-01T15:25:43Z",
+ "topics": 67,
+ "cards": 15,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
   "branch": "fix/kdp-submit-1.3.4-publish-public",
   "commit": "819bfcf7d6509d73d86e22f5b619ec9b71aab3ee"
  },
- "requests": 189,
- "elapsed_seconds": 770,
+ "requests": 179,
+ "elapsed_seconds": 735,
  "steps": {
   "topics": {
    "requests": 45,
-   "seconds": 158
+   "seconds": 159
   },
   "deep": {
    "keywords": 50,
-   "requests": 144,
-   "seconds": 612
+   "requests": 134,
+   "seconds": 576
   }
  },
  "stopped": "captcha",
  "files": {
-  "cards/a-barefoot-contessa-cookbook/card.md": "e1b9f8f5c3338c47e0a4edcd6abe304635e4294e9d70a43d5bb25c2890dd78b8",
+  "cards/a-barefoot-contessa-cookbook/card.md": "79d418d6181f4e0e8e7227bbd55d365a86c712402b2c6a164743f1cc719dc279",
   "cards/a-barefoot-contessa-cookbook/competitors.json": "ad574212128b4153656e86d215dc3bf92b6e971e5cc59df28cfcb93aa8276387",
-  "cards/a-scenario/card.md": "f93a3fba88bd8dfaee231244106410e2a5af2d5572aa725eb433a0a203534aec",
+  "cards/a-beginner-s-guide/card.md": "cebf5e703b4b53bb043e9282b4ced72818b0e390675543538eae4f8883478e24",
+  "cards/a-beginner-s-guide/competitors.json": "6b8b27b819e6d17937e081c98c53e450e68286461ac8f0994e7fb8b695fa9b4a",
+  "cards/a-complete-beginner-s-guide/card.md": "5ad3fbf1d41d9b0bbd9d2e2b5cafd4b93fb53de2eb1990e992d6793396e115dd",
+  "cards/a-complete-beginner-s-guide/competitors.json": "3e013c42289757b0b2e048d5e6d3538f5ae3e87acc0489b295e66fc48c866703",
+  "cards/a-scenario/card.md": "9be4537f3b9a587d42e27fd972c432e940c7028e386934b1159128bbed1cb418",
   "cards/a-scenario/competitors.json": "cb8a3c207a990727a2d646ed0167a61d6c22b6d065d56471a67c4aff14db02a1",
-  "cards/a-step-by-step/card.md": "fbfa3525ac16d2491f50ae20f0d50b86cd18729908bfdfb06a9fced8cf9454af",
+  "cards/a-step-by-step/card.md": "da4666b19fc098281ecb20f4e7ce76a51748b3f05775ad88bff51ee566217db9",
   "cards/a-step-by-step/competitors.json": "39a1db5768168341531369cab6b92f7db25ea49703d5df351e0b356d839b2d52",
-  "cards/a-survival-guide-for-humanity/card.md": "ab863a8205fca41c409edcc7f2a7837c2b8d1ae6dbb43be561e78bf32303b339",
-  "cards/a-survival-guide-for-humanity/competitors.json": "caad32ff085e3c6d6af545c971b81383f8e3ae6a6201ca031aa0438dad2c415b",
-  "cards/a-survival-guide/card.md": "2b9ac338c520aa3d6e6b4946e13e83fb177362a494ece1127bd84e6713d234ca",
+  "cards/a-survival-guide/card.md": "862510097c235a80ad285f5756e547293525f289fb58fcb486c464380cba4ab4",
   "cards/a-survival-guide/competitors.json": "8bffc1a599d7871bb050732fab22cc7ad6865645cbb419829a43e2ac32ac2739",
-  "cards/barefoot-contessa/card.md": "e6200b5b89b5d9b81e5ffda19a745b4a5ac337c29c54204bd477c6ce91792ca3",
+  "cards/ai-for-beginners/card.md": "6b0cf6261d48975e7e48b5352d1db50cb61d30efbe44e5125646a49bc14f0caa",
+  "cards/ai-for-beginners/competitors.json": "ef580b673d8ca740aff5ffbbe055cce591a925840427e3d79d52b2bce16fb9b7",
+  "cards/barefoot-contessa/card.md": "04bac8f94c0a884d38770e2d13d009740fdca7e653aa4b0bab9afa465793b3d9",
   "cards/barefoot-contessa/competitors.json": "58829808d2e78a47670ad5291ffc2ceb13f84960f6a42270c170c40d61b49846",
-  "cards/french-resistance-hotel/card.md": "c7547623f797bc782d111efa422ba0a1aa92f3853ad51a107f6a32ca8c1c80a1",
+  "cards/f1-cars-work-made-easy/card.md": "03df9fa2ad33aa165834a95efc055f5e992755fa9d1f3bd5bd432c99684cc87b",
+  "cards/f1-cars-work-made-easy/competitors.json": "3f2ed13337df7ad6950d61244a063ded3ff7677e7969ece5eef2373372dd8adc",
+  "cards/french-resistance-hotel/card.md": "b192274e4fb9a0684b04466b8627c3b11fc4ddd3629e007d2454ac2639e77ac9",
   "cards/french-resistance-hotel/competitors.json": "1af0d482ab9829369deb87569d31f1c1b04cb84f1b99cd149fdc8dd76c13442f",
-  "cards/the-comprehensive-guide/card.md": "3e8f92fecd43205c3eb866973c03c961bd330b08fdde51c0cbff404e6ad19eec",
-  "cards/the-comprehensive-guide/competitors.json": "1ca467c523656bfe7e438d09a85125b6bdcf585283f9d25626b234e80aee3a3d",
-  "cards/the-french-resistance-hotel/card.md": "740b447a0d1cf7a6f65619a5b631a9b6d1368a3f8b5be5379b0330e6372e24f2",
+  "cards/handbook-of-basic-electronics/card.md": "b98cf1481db7a3ee0792d86999c82e18e55972e8d117efc4566d19107dacd388",
+  "cards/handbook-of-basic-electronics/competitors.json": "cca27d484cefb7bdde70b3d19dd7cf96c386ddecf75655223619781291b3f2a7",
+  "cards/how-to-be-good-at-life/card.md": "84bb2b5aec4a2aafab677dc248464ceb901d274b0683ef3f643be2b8170a637c",
+  "cards/how-to-be-good-at-life/competitors.json": "1a655d83bfc30ca28342c51e8d1dcaed35f9abd49a75fc299111fb3ff11eaff1",
+  "cards/how-to-build-profitable-mission-driven-healthcare-businesses/card.md": "68f0e33588cece91c51c52328c305d952772781615e202354197b1d8847bd342",
+  "cards/how-to-build-profitable-mission-driven-healthcare-businesses/competitors.json": "ea6f53137772fa89ff51a236204ae19aaf2967fc9de0cc76ae7678ebfa4dd36f",
+  "cards/how-to-go-from-overwhelmed-to-finished/card.md": "84f49f65caa9deda413f6b8a45425bae343a8ffa59e7747e57f6cccddb2b5fad",
+  "cards/how-to-go-from-overwhelmed-to-finished/competitors.json": "04f6023b29f245fcb86b4e24ad325883c681567f6371d962aae657a4dc7928cf",
+  "cards/the-french-resistance-hotel/card.md": "4179fb4fa0c29dc81a6a9c6e129acbf07c59ebb5fc5d72526eec9b9c1fb6cf77",
   "cards/the-french-resistance-hotel/competitors.json": "d4a625c2ce8132f8ac76703c445486b7433c274e06cb85dae205bfd93b3e7bf5",
-  "topics.json": "a58b9e51b1bc9dbdf57f6345d52d1308eb81800e380b4b33183ee496d2046ac2"
+  "topics.json": "f1c6f7c4dcd4eb85e555a8e9b2da77f628e004c16ba1ea48057dce0eaddc7fe9"
  }
 }

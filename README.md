@@ -9,8 +9,8 @@ e.g. `https://raw.githubusercontent.com/clawcreek/kindle-niche-snapshot/main/sna
 Once a week. The snapshot is meant to be produced by `scripts/refresh.sh`, run weekly on the maintainer's
 own machine (not GitHub Actions, not a server). That weekly job is **not installed yet**.
 
-The current snapshot (2026-09-30) was a manual run that stopped early: Amazon returned a CAPTCHA during the
-deep check, so it has 64 topics but only 9 cards (`"stopped": "captcha"` in `manifest.json`).
+The current snapshot (2026-10-01) was a manual run that stopped early: Amazon returned a CAPTCHA during the
+deep check, so it has 67 topics but only 15 cards (`"stopped": "captcha"` in `manifest.json`).
 Check `cards` and `stopped` in the manifest before relying on a snapshot.
 
 ## Data source
