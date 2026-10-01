@@ -1,59 +1,78 @@
 {
  "schema": "kindle-niche-snapshot/0.1",
- "generated_at": "2026-10-01T15:25:43Z",
- "topics": 67,
- "cards": 15,
+ "generated_at": "2026-10-01T22:21:11Z",
+ "topics": 66,
+ "cards": 6,
  "skill": {
   "repo": "netmind-rs-clawcreek-skills",
   "path": "skills/clawcreek-howto-author/steps/01-niche-research/scripts/niche_research.py",
-  "branch": "fix/kdp-submit-1.3.4-publish-public",
-  "commit": "819bfcf7d6509d73d86e22f5b619ec9b71aab3ee"
+  "branch": "feature/howto-author-topics-quality",
+  "commit": "f820f52a281450ea923490356e581fa5cbfddca2"
  },
- "requests": 179,
- "elapsed_seconds": 735,
+ "requests": 118,
+ "elapsed_seconds": 1603,
  "steps": {
   "topics": {
-   "requests": 45,
-   "seconds": 159
+   "requests": 0,
+   "seconds": 0
   },
   "deep": {
-   "keywords": 50,
-   "requests": 134,
-   "seconds": 576
+   "words": 7,
+   "requests": 118,
+   "seconds": 1603
   }
  },
- "stopped": "captcha",
+ "new_cards": [
+  "weight-loss",
+  "human-advantage",
+  "road-trip",
+  "crochet-patterns",
+  "hindenburg-disaster",
+  "game-plan"
+ ],
+ "stopped": {
+  "reason": "captcha",
+  "next": "artificial intelligence"
+ },
+ "card_index": {
+  "crochet-patterns": {
+   "keyword": "crochet patterns",
+   "fetched_at": "2026-10-01"
+  },
+  "game-plan": {
+   "keyword": "game plan",
+   "fetched_at": "2026-10-01"
+  },
+  "hindenburg-disaster": {
+   "keyword": "hindenburg disaster",
+   "fetched_at": "2026-10-01"
+  },
+  "human-advantage": {
+   "keyword": "human advantage",
+   "fetched_at": "2026-10-01"
+  },
+  "road-trip": {
+   "keyword": "road trip",
+   "fetched_at": "2026-10-01"
+  },
+  "weight-loss": {
+   "keyword": "weight loss",
+   "fetched_at": "2026-10-01"
+  }
+ },
  "files": {
-  "cards/a-barefoot-contessa-cookbook/card.md": "79d418d6181f4e0e8e7227bbd55d365a86c712402b2c6a164743f1cc719dc279",
-  "cards/a-barefoot-contessa-cookbook/competitors.json": "ad574212128b4153656e86d215dc3bf92b6e971e5cc59df28cfcb93aa8276387",
-  "cards/a-beginner-s-guide/card.md": "cebf5e703b4b53bb043e9282b4ced72818b0e390675543538eae4f8883478e24",
-  "cards/a-beginner-s-guide/competitors.json": "6b8b27b819e6d17937e081c98c53e450e68286461ac8f0994e7fb8b695fa9b4a",
-  "cards/a-complete-beginner-s-guide/card.md": "5ad3fbf1d41d9b0bbd9d2e2b5cafd4b93fb53de2eb1990e992d6793396e115dd",
-  "cards/a-complete-beginner-s-guide/competitors.json": "3e013c42289757b0b2e048d5e6d3538f5ae3e87acc0489b295e66fc48c866703",
-  "cards/a-scenario/card.md": "9be4537f3b9a587d42e27fd972c432e940c7028e386934b1159128bbed1cb418",
-  "cards/a-scenario/competitors.json": "cb8a3c207a990727a2d646ed0167a61d6c22b6d065d56471a67c4aff14db02a1",
-  "cards/a-step-by-step/card.md": "da4666b19fc098281ecb20f4e7ce76a51748b3f05775ad88bff51ee566217db9",
-  "cards/a-step-by-step/competitors.json": "39a1db5768168341531369cab6b92f7db25ea49703d5df351e0b356d839b2d52",
-  "cards/a-survival-guide/card.md": "862510097c235a80ad285f5756e547293525f289fb58fcb486c464380cba4ab4",
-  "cards/a-survival-guide/competitors.json": "8bffc1a599d7871bb050732fab22cc7ad6865645cbb419829a43e2ac32ac2739",
-  "cards/ai-for-beginners/card.md": "6b0cf6261d48975e7e48b5352d1db50cb61d30efbe44e5125646a49bc14f0caa",
-  "cards/ai-for-beginners/competitors.json": "ef580b673d8ca740aff5ffbbe055cce591a925840427e3d79d52b2bce16fb9b7",
-  "cards/barefoot-contessa/card.md": "04bac8f94c0a884d38770e2d13d009740fdca7e653aa4b0bab9afa465793b3d9",
-  "cards/barefoot-contessa/competitors.json": "58829808d2e78a47670ad5291ffc2ceb13f84960f6a42270c170c40d61b49846",
-  "cards/f1-cars-work-made-easy/card.md": "03df9fa2ad33aa165834a95efc055f5e992755fa9d1f3bd5bd432c99684cc87b",
-  "cards/f1-cars-work-made-easy/competitors.json": "3f2ed13337df7ad6950d61244a063ded3ff7677e7969ece5eef2373372dd8adc",
-  "cards/french-resistance-hotel/card.md": "b192274e4fb9a0684b04466b8627c3b11fc4ddd3629e007d2454ac2639e77ac9",
-  "cards/french-resistance-hotel/competitors.json": "1af0d482ab9829369deb87569d31f1c1b04cb84f1b99cd149fdc8dd76c13442f",
-  "cards/handbook-of-basic-electronics/card.md": "b98cf1481db7a3ee0792d86999c82e18e55972e8d117efc4566d19107dacd388",
-  "cards/handbook-of-basic-electronics/competitors.json": "cca27d484cefb7bdde70b3d19dd7cf96c386ddecf75655223619781291b3f2a7",
-  "cards/how-to-be-good-at-life/card.md": "84bb2b5aec4a2aafab677dc248464ceb901d274b0683ef3f643be2b8170a637c",
-  "cards/how-to-be-good-at-life/competitors.json": "1a655d83bfc30ca28342c51e8d1dcaed35f9abd49a75fc299111fb3ff11eaff1",
-  "cards/how-to-build-profitable-mission-driven-healthcare-businesses/card.md": "68f0e33588cece91c51c52328c305d952772781615e202354197b1d8847bd342",
-  "cards/how-to-build-profitable-mission-driven-healthcare-businesses/competitors.json": "ea6f53137772fa89ff51a236204ae19aaf2967fc9de0cc76ae7678ebfa4dd36f",
-  "cards/how-to-go-from-overwhelmed-to-finished/card.md": "84f49f65caa9deda413f6b8a45425bae343a8ffa59e7747e57f6cccddb2b5fad",
-  "cards/how-to-go-from-overwhelmed-to-finished/competitors.json": "04f6023b29f245fcb86b4e24ad325883c681567f6371d962aae657a4dc7928cf",
-  "cards/the-french-resistance-hotel/card.md": "4179fb4fa0c29dc81a6a9c6e129acbf07c59ebb5fc5d72526eec9b9c1fb6cf77",
-  "cards/the-french-resistance-hotel/competitors.json": "d4a625c2ce8132f8ac76703c445486b7433c274e06cb85dae205bfd93b3e7bf5",
-  "topics.json": "f1c6f7c4dcd4eb85e555a8e9b2da77f628e004c16ba1ea48057dce0eaddc7fe9"
+  "cards/crochet-patterns/card.md": "8d72e88e347c77e874e1c0aec78633acc4c150850b663bd325c2d336613a8102",
+  "cards/crochet-patterns/competitors.json": "9681d4d658a65838d671c357bc8bfd5f7ab1d1ecbf11886a9873b199c95f0e50",
+  "cards/game-plan/card.md": "68278ce4f9fe342cbb2edb7f447642f6568d141e5288d3cc0e649f0415d6c272",
+  "cards/game-plan/competitors.json": "d7612ca3931f400e4c761fc707e709dd6e02ff33d854af611fcfd75b7a5ee2af",
+  "cards/hindenburg-disaster/card.md": "e8232a6faae842884b25273a375b7b998fb503e7f82303fe732350176fe34cf4",
+  "cards/hindenburg-disaster/competitors.json": "8c9dbc0098e416a513eebdae86026bc70a43754ac2cdc367252a6de22c553093",
+  "cards/human-advantage/card.md": "13d12190d1aeba246c642b847e7cb6edc4f78fb84ab95a6d110f6da08bf5759a",
+  "cards/human-advantage/competitors.json": "f0f504373f8b39ac2d2bedd3bfed899d5409d5718da613898f3744e0dffb8ead",
+  "cards/road-trip/card.md": "4e7e3b98fba4576c3049356ed44c7c521129c68f66054d5d48283cbbf957404f",
+  "cards/road-trip/competitors.json": "ee8e893685d87a3694b9bb93d7da49c5e4b1f033609122aa832cc722dbd5ed95",
+  "cards/weight-loss/card.md": "ecca310ed47abbe436b1a6ace911d735e6057b26e29e5920d85e1cda5e0767c1",
+  "cards/weight-loss/competitors.json": "448de700b1c23de6d5211a516fd5c2df8d119b4f9a47427d898b9c8d338a7c20",
+  "topics.json": "1dcb378b9c690b5752512fb9cde9404d733aa89b022f7e523c2a6d0425a29d0d"
  }
 }
